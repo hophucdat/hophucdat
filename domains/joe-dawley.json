@@ -1,0 +1,11 @@
+{
+  "description": "Joe Dawley",
+  "repo": "https://github.com/jdawley",
+  "owner": {
+    "username": "jdawley",
+    "twitter": "joedawley"
+  },
+  "record": {
+    "CNAME": "joedawley.com"
+  }
+}

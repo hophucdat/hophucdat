@@ -1,0 +1,10 @@
+{
+  "description": "Ravi Profile.",
+  "repo": "https://github.com/darji-ravi/darji-ravi.github.io",
+  "owner": {
+    "username": "darji-ravi"
+  },
+  "record": {
+    "CNAME": "darji-ravi.github.io"
+  }
+}
